@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/KyoyaIwatsuru/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KyoyaIwatsuru&show_icons=true" />
+</a>
+<a href="https://github.com/KyoyaIwatsuru/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KyoyaIwatsuru&layout=donut&langs_count=8&card_width=320" />
+</a>
